@@ -5,8 +5,7 @@
 I'm a passionate and results-driven **iOS Developer** with over a year of hands-on experience building beautiful, scalable, and modern mobile applications from concept to App Store.
 
 My unique background, combining a **Master's in Computer Science** with a **Bachelor's in Engineering**, provides me with a deep understanding of software architecture, data structures, and low-level principles. My professional IT experience in **Canada, the UK, and Ukraine** has equipped me with a global perspective and excellent communication skills.
-
-I thrive on clean code, robust architecture, and creating intuitive user experiences. I'm currently seeking a full-time iOS Developer role where I can contribute to exciting projects and continue to grow.
+⚡ Hobby: Unreal Engine Game Development.
 
 ---
 
